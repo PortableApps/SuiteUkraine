@@ -6,3 +6,5 @@ The latest versions of the Ukrainian and Russian language versions of the suite 
 Run the PortableApps.com_Ukraine_Suite_Setup_2022.04_XXX.paf.exe installer and select the language you would like to use during installation. The suite will be installed in the language you downloaded regardless of the language you select, allowing a host family or friend to set the suite up without needing to read Ukrainian or Russian.
 ## Use
 To use the suite of apps, run Start.exe from where you installed it. All existing apps will be kept up to date and additional free apps can be installed from the app store.
+## Moving Between PCs
+If installed to an external storage device like a USB flash drive or portable hard drive, the whole suite of apps can be moved between Windows PCs (Windows 7, 8, 10, and 11) and used with their data and settings intact. If installed to a local drive, the Start.exe platform starter and the PortableApps and Documents directories alongside it can be copied to an external storage device and then moved to another PC or carried with you.

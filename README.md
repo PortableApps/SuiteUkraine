@@ -6,7 +6,7 @@ PortableApps.com's software platform has been combined with a set of useful apps
 ## Download
 The latest versions of the Ukrainian and Russian language versions of the suite are available from the Releases link to the right.
 ## Installation
-Run the PortableApps.com_Ukraine_Suite_Setup_2022.04_XXX.paf.exe installer and select the language you would like to use during installation. The suite will be installed in the language you downloaded regardless of the language you select, allowing a host family or friend to set the suite up without needing to read Ukrainian or Russian.
+Run the PortableApps.com_Ukraine_Suite_Setup_2022.12_XXX.paf.exe installer and select the language you would like to use during installation. The suite will be installed in the language you downloaded regardless of the language you select, allowing a host family or friend to set the suite up without needing to read Ukrainian or Russian.
 ## Use
 To use the suite of apps, run Start.exe from where you installed it. All existing apps will be kept up to date and additional free apps can be installed from the app store.
 ## Moving Between PCs
